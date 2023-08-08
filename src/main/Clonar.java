@@ -3,10 +3,11 @@ package main;
 
 
 public class Clonar {
-// NUEVO COMENTARIO
+// NUEVO COMENTARio
   String nombre;
   int intentos;
 
     public Clonar() {
     }
 }
+
