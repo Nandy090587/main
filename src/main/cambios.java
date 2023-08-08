@@ -10,11 +10,5 @@ package main;
  * @author Kelly
  */
 public class cambios {
-    String nombre;
-
-    public cambios(String nombre) {
-        this.nombre = nombre;
-    }
-    
-    
+    //hago una nueva clase
 }
